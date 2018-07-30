@@ -1,4 +1,5 @@
-# TeklaTemplates
 Tekla Open API templates
 
-Copy zip to %USERPROFILE%\Documents\Visual Studio 2017\Templates\ProjectTemplates.
+Only template for Tekla application (Fusion) currently.
+
+Copy zip files to %USERPROFILE%\Documents\Visual Studio 2017\Templates\ProjectTemplates.
