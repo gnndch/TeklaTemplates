@@ -1,0 +1,19 @@
+﻿string_utf8 albl_Title
+{
+    entry = ("enu", "TeklaWpfApplication");
+    entry = ("chs", "TeklaWpfApplication***");
+    entry = ("cht", "TeklaWpfApplication***");
+    entry = ("csy", "TeklaWpfApplication***");
+    entry = ("deu", "TeklaWpfApplication***");
+    entry = ("esp", "TeklaWpfApplication***");
+    entry = ("fra", "TeklaWpfApplication***");
+    entry = ("hun", "TeklaWpfApplication***");
+    entry = ("ita", "TeklaWpfApplication***");
+    entry = ("jpn", "TeklaWpfApplication***");
+    entry = ("kor", "TeklaWpfApplication***");
+    entry = ("nld", "TeklaWpfApplication***");
+    entry = ("plk", "TeklaWpfApplication***");
+    entry = ("ptb", "TeklaWpfApplication***");
+    entry = ("ptg", "TeklaWpfApplication***");
+    entry = ("rus", "TeklaWpfApplication***");
+};
