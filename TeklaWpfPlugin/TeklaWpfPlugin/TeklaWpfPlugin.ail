@@ -1,0 +1,19 @@
+﻿string_utf8 albl_Title
+{
+    entry = ("enu", "TeklaWpfPlugin");
+    entry = ("chs", "TeklaWpfPlugin***");
+    entry = ("cht", "TeklaWpfPlugin***");
+    entry = ("csy", "TeklaWpfPlugin***");
+    entry = ("deu", "TeklaWpfPlugin***");
+    entry = ("esp", "TeklaWpfPlugin***");
+    entry = ("fra", "TeklaWpfPlugin***");
+    entry = ("hun", "TeklaWpfPlugin***");
+    entry = ("ita", "TeklaWpfPlugin***");
+    entry = ("jpn", "TeklaWpfPlugin***");
+    entry = ("kor", "TeklaWpfPlugin***");
+    entry = ("nld", "TeklaWpfPlugin***");
+    entry = ("plk", "TeklaWpfPlugin***");
+    entry = ("ptb", "TeklaWpfPlugin***");
+    entry = ("ptg", "TeklaWpfPlugin***");
+    entry = ("rus", "TeklaWpfPlugin***");
+};
